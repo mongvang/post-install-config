@@ -114,6 +114,6 @@ Add the following:<br>
 -Password Reset<br>
 </p>
 <p>
-<img src="https://i.imgur.com/ey8fmWe.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ey8fmWe.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
