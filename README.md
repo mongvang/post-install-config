@@ -100,5 +100,20 @@ Admin Panel -> Manage -> SLA <br>
 </p>
 <p>
 <img src="https://i.imgur.com/j726jUo.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/l27dtfq.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+<p>
+8) Configure Help Topics<br>
+Admin Panel -> Manage -> Help Topics<br>
+Add the following:<br>
+-Business Critical Outage<br>
+-Personal Computer Issues<br>
+-Equipment Request<br>
+-Password Reset<br>
+</p>
+<p>
+<img src="https://i.imgur.com/ey8fmWe.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
