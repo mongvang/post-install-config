@@ -54,9 +54,51 @@ Admin Panel -> Agents -> Add New Department<br>
 Admin Panel -> Agents -> Teams<br>
 Level I Support<br>
 -Add Level II Support<br>
+-Add Members (Employees)
 </p>
 <p>
 <img src="https://i.imgur.com/6Psc8qK.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/tE7obLj.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+<p>
+4) Allow anyone to create tickets<br>
+Admin Panel -> Settings -> User Settings<br>
+Registration Required: Require registration and login to create tickets<br>
+</p>
+<p>
+<img src="https://i.imgur.com/hfSWK8m.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+<p>
+5) Configure Agents (workers) <br>
+Admin Panel -> Agents -> Add New Agent<br>
+-Configure each agents access and permission<br>
+</p>
+<p>
+<img src="https://i.imgur.com/S6k3Axi.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+<p>
+6) Configure Users (customers) <br>
+Agent Panel -> Users -> Add User (Employees)
+</p>
+<p>
+<img src="https://i.imgur.com/Cnm6nj3.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+<p>
+7) Configure SLA (Service Level Agreements) *How fast a ticket should be answered<br>
+Admin Panel -> Manage -> SLA <br>
+*Sev-A (1 hour, 24/7) <br>
+*Sev-B (4 hours, 24/7) <br>
+*Sev-C (8 hours, business hours) <br>
+</p>
+<p>
+<img src="https://i.imgur.com/j726jUo.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
